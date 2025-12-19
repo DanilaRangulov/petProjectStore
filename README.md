@@ -103,6 +103,8 @@ export interface ProductResponse {
 
 ## Client
 
+Frontend слушает по умолчанию 3000 порт.
+
 В качестве архитектуры frontend была выбрана слоистая архитектура FSD. В силу своего удобства и масштабируемости.
 
 Как результат структура выглядит следующим образом: app, entities, features, pages, shared, widgets.

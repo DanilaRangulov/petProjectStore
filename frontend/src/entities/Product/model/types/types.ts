@@ -4,6 +4,15 @@ export interface ProductPageParam {
 }
 
 export interface ProductResponse {
-    items: any;
+    items: ProductCardModel;
     total: number;
+}
+
+export interface ProductCardModel {
+    id: number;
+    title: string;
+    price: number;
+    category: string;
+    imageUrl: string;
+    description: string;
 }

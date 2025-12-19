@@ -4,11 +4,11 @@ import {ProductPageParam, ProductResponse} from "../types/types";
 
 export const productApi = rtkApiService.injectEndpoints({
     endpoints: (builder) => ({
-        getPortfolio: builder.infiniteQuery<ProductResponse, void, ProductPageParam>({
+        getProduct: builder.infiniteQuery<ProductResponse, string, ProductPageParam>({
             infiniteQueryOptions: {
                 initialPageParam: {
                     pageNumber: 1,
-                    pageSize: 10
+                    pageSize: 6
                 },
                 getNextPageParam: (
                     lastPage,
@@ -49,6 +49,7 @@ export const productApi = rtkApiService.injectEndpoints({
                     params: {
                         pageNumber,
                         pageSize,
+                        queryArg
                     },
                 };
             },

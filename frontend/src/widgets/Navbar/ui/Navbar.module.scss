@@ -1,0 +1,19 @@
+.Navbar {
+  position: relative;
+  width: 100%;
+  border: 1.5px solid var(--color-gray-ultra-light);
+  margin-bottom: var(--in-section-spacing);
+}
+.main {
+  width: 100%;
+  display: flex;
+  margin: auto;
+  color: black;
+  gap: 20px;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  img {
+    height: 4em;
+  }
+}

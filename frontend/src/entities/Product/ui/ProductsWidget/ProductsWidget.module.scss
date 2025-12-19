@@ -1,0 +1,7 @@
+@import "../../../../app/styles/mixins/mixins";
+
+.ProductsWidget {
+  @include addInSectionSpacing;
+  position: relative;
+  margin: auto;
+}

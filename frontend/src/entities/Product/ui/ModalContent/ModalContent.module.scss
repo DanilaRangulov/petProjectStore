@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  flex: 1 1 auto;
+  position: relative;
+  background-color: white;
+  border-radius: 10px;
+  width: 100%;
+  overflow: hidden;
+}
+.ModalContent {
+  overflow-y: auto;
+  overflow-x: hidden;
+  position: relative;
+  padding: 20px;
+  display: flex;
+  scrollbar-width: thin;
+  flex-direction: column;
+  img {
+    width: 100%;
+  }
+}
+.topContent {
+  display: flex;
+  flex-direction: column;
+}

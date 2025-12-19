@@ -1,0 +1,30 @@
+@import "./fonts/fonts";
+@import "./variables/colors";
+@import "./mixins/mixins";
+@import "./variables/sizes";
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: #393939;
+}
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1172px;
+  width: 100%;
+  padding: 0 16px;
+  //@media ($isMobile) {
+  //  padding: 0 16px;
+  //  max-width: 100%;
+  //}
+}
+button {
+  background-color: unset;
+  border: unset;
+}

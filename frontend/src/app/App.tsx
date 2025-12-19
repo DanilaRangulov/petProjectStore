@@ -1,11 +1,16 @@
 import React from 'react';
-
+import './styles/index.scss'
+import {Navbar} from "widgets/Navbar";
+import {MainPage} from "pages/MainPage";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-          123
+      <header>
+          <Navbar/>
       </header>
+        <main>
+            <MainPage/>
+        </main>
     </div>
   );
 }

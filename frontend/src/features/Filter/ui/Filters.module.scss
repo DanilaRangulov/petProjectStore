@@ -1,0 +1,15 @@
+.Filters {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  input {
+    border-radius: 10px;
+    border: 2px solid var(--color-gray-ultra-light);
+    padding: 5px;
+    &:focus {
+      outline-color: var(--color-sky-blue);
+    }
+  }
+}

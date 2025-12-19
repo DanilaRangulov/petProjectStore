@@ -1,0 +1,7 @@
+@import "../../../app/styles/mixins/mixins";
+
+.MainPage {
+  @include addComponentSpacing;
+  position: relative;
+  margin: auto;
+}

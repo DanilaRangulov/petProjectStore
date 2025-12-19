@@ -1,0 +1,21 @@
+@mixin addDefaultBorder {
+  border: 2px solid var(--color-gray-ultra-light);
+  border-radius: 10px;
+  &:hover {
+    border: 2px solid var(--color-sky-blue);
+  }
+}
+
+@mixin addComponentSpacing {
+  & >:nth-child(n) {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: var(--component-spacing);
+  }
+}
+
+@mixin addInSectionSpacing {
+  & > *:not(:last-child) {
+    margin-bottom: var(--in-section-spacing);
+  }
+}

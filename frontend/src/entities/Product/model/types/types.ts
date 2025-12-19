@@ -1,10 +1,11 @@
-export interface ProductPageParam {
+export interface ProductQueryParams {
     pageNumber: number;
     pageSize: number;
+    search: string;
 }
 
 export interface ProductResponse {
-    items: ProductCardModel;
+    pages: Record<number, ProductCardModel[]>
     total: number;
 }
 

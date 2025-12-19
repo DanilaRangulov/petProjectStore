@@ -1,5 +1,5 @@
 @import "../../../../app/styles/mixins/mixins";
-
+@import "../../../../app/styles/variables/adaptive";
 .ProductCard {
   @include addDefaultBorder;
   display: flex;
@@ -7,12 +7,12 @@
   justify-content: space-around;
   padding: 10px;
   cursor: pointer;
-  //>:not(:last-child) {
-  //  margin-bottom: 10px;
-  //}
   position: relative;
   overflow: hidden;
-  height: 320px;
+  height: 360px;
+  @media($isTablet) {
+    max-width: 380px;
+  }
 }
 
 .imageContent {

@@ -1,338 +1,10 @@
 [
   {
-    "id": 1,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 2,
+    "id": 66,
     "title": "Беспроводные наушники AirBeat Pro",
     "price": 5990,
     "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 3,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 4,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 5,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 6,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 7,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 8,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 9,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 10,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 11,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 12,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 13,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 14,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 15,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 16,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 17,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 18,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 19,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 20,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 21,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 22,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 23,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 24,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 25,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 26,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 27,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 28,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 29,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 30,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 31,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 32,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 33,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 34,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 35,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 36,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 37,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 38,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 39,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 40,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 41,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 42,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
     "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
   },
   {
@@ -340,447 +12,23 @@
     "title": "Портативная колонка Boom Mini",
     "price": 3290,
     "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
     "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
   },
   {
-    "id": 44,
+    "id": 16,
     "title": "Игровая мышь HyperClick G5",
     "price": 2590,
     "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
     "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
   },
   {
-    "id": 45,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 46,
+    "id": 10,
     "title": "Беспроводные наушники AirBeat Pro",
     "price": 5990,
     "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 47,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 48,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 49,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 50,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 51,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 52,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 53,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 54,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 55,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 56,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 57,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 58,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 59,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 60,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 61,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 62,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 63,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 64,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 65,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 66,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 67,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 68,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 69,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 70,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 71,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 72,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 73,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 74,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 75,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 76,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 77,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 78,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 79,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 80,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 81,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 82,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 83,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 84,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 85,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 86,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 87,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 88,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 89,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 90,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 91,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 92,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 93,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 94,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 95,
-    "title": "Портативная колонка Boom Mini",
-    "price": 3290,
-    "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
-    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
-  },
-  {
-    "id": 96,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 97,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 98,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
     "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
   },
   {
@@ -788,39 +36,39 @@
     "title": "Портативная колонка Boom Mini",
     "price": 3290,
     "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
     "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
   },
   {
-    "id": 100,
-    "title": "Игровая мышь HyperClick G5",
-    "price": 2590,
-    "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
-    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
-  },
-  {
-    "id": 101,
-    "title": "Смарт-часы X100",
-    "price": 7490,
-    "category": "Гаджеты",
-    "imageUrl": "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7384524963.jpg",
-    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
-  },
-  {
-    "id": 102,
-    "title": "Беспроводные наушники AirBeat Pro",
-    "price": 5990,
-    "category": "Аудио",
-    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4464754/2a0000019402118481dd839524ed7ed5c6fa/orig",
-    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
-  },
-  {
-    "id": 103,
+    "id": 59,
     "title": "Портативная колонка Boom Mini",
     "price": 3290,
     "category": "Аудио",
-    "imageUrl": "https://fumiko.ru/upload/iblock/ade/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 2,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 74,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 91,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
     "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
   },
   {
@@ -828,7 +76,759 @@
     "title": "Игровая мышь HyperClick G5",
     "price": 2590,
     "category": "Периферия",
-    "imageUrl": "https://images.prom.ua/4995288870_w640_h640_myshka-provodnaya-g5.jpg",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
     "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 80,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 77,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 11,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 42,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 68,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 67,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 53,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 57,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 34,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 31,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 69,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 61,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 73,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 27,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 60,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 9,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 22,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 64,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 33,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 84,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 38,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 45,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 83,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 97,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 51,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 63,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 46,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 50,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 48,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 103,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 56,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 89,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 13,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 37,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 24,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 40,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 41,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 19,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 79,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 6,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 25,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 8,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 35,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 85,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 47,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 3,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 52,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 17,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 39,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 62,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 81,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 23,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 7,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 49,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 94,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 96,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 71,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 86,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 20,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 75,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 44,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 90,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 21,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 1,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 100,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 58,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 98,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 54,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 93,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 26,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 72,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 88,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 78,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 65,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 30,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 28,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 92,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 102,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 5,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 55,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 76,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 12,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 70,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 87,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 14,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 101,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 18,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
+  },
+  {
+    "id": 29,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "imageUrl": "http://localhost:8080/api/images/7384524963.webp",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
+  },
+  {
+    "id": 32,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 36,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 95,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 4,
+    "title": "Игровая мышь HyperClick G5",
+    "price": 2590,
+    "category": "Периферия",
+    "imageUrl": "http://localhost:8080/api/images/4995288870_w640_h640_myshka-provodnaya-g5.webp",
+    "description": "Датчик 16000 DPI, 7 программируемых кнопок, RGB-подсветка"
+  },
+  {
+    "id": 15,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/1sd02dubfddyvr80ga6iin864sg1l2wz.jpg",
+    "description": "Звук 20 Вт, защита IPX7, до 10 часов работы"
+  },
+  {
+    "id": 82,
+    "title": "Беспроводные наушники AirBeat Pro",
+    "price": 5990,
+    "category": "Аудио",
+    "imageUrl": "http://localhost:8080/api/images/orig.webp",
+    "description": "Активное шумоподавление, 24 часа с кейсом, Bluetooth 5.3"
   }
 ]

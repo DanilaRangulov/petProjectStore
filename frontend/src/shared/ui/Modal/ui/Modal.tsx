@@ -22,7 +22,6 @@ const Modal = (props: ModalProps) => {
         setIsOpening(false)
         setIsClosing(true);
         timerRef.current = setTimeout(() => {
-            console.log('закрытие модалки')
             setIsClosing(false)
             timerRef.current = null
             setIsMounted(false)

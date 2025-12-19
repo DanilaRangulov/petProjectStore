@@ -1,58 +1,33 @@
 import {rtkApiService} from "shared/api";
-import {ProductPageParam, ProductResponse} from "../types/types";
+import {ProductQueryParams, ProductResponse} from "../types/types";
+import {BaseQueryMeta} from "@reduxjs/toolkit/query";
 
 
 export const productApi = rtkApiService.injectEndpoints({
     endpoints: (builder) => ({
-        getProduct: builder.infiniteQuery<ProductResponse, string, ProductPageParam>({
-            infiniteQueryOptions: {
-                initialPageParam: {
-                    pageNumber: 1,
-                    pageSize: 6
-                },
-                getNextPageParam: (
-                    lastPage,
-                    allPages,
-                    lastPageParam,
-                    allPageParams,
-                ) => {
-                    const nextPage = lastPageParam.pageNumber + 1
-                    const totalPages = Math.ceil(lastPage.total / lastPageParam.pageSize)
-                    const remainingPages = totalPages - nextPage
-                    if (remainingPages < 0) {
-                        return undefined
-                    }
-                    return {
-                        ...lastPageParam,
-                        pageNumber: nextPage,
-                    }
-                },
-                getPreviousPageParam: (
-                    firstPage,
-                    allPages,
-                    firstPageParam,
-                    allPageParams,
-                ) => {
-                    const prevPage = firstPageParam.pageNumber - 1
-                    if (prevPage < 0) return undefined
 
-                    return {
-                        ...firstPageParam,
-                        pageNumber: prevPage,
-                    }
-                },
+        getProduct: builder.query<ProductResponse, ProductQueryParams>({
+            query: ({pageNumber, pageSize, search}: ProductQueryParams) => ({ url: `product/?pageNumber=${pageNumber}&pageSize=${pageSize}&search=${search}` }),
+            transformResponse: (data: ProductResponse) => data,
+            providesTags: (result, error, arg) => [{ type: 'Product', arg }],
+
+            merge: (currentCacheData, responseData, { arg }) => {
+                currentCacheData.pages[arg.pageNumber] = responseData.pages[arg.pageNumber];
             },
-            query: ({ queryArg, pageParam }) => {
-                const { pageNumber, pageSize } = pageParam;
-                return {
-                    url: 'product',
-                    params: {
-                        pageNumber,
-                        pageSize,
-                        queryArg
-                    },
-                };
+
+            serializeQueryArgs: ({ endpointName, queryArgs }) =>
+                `${endpointName}-${queryArgs.search}-${queryArgs.pageSize}`,
+
+            forceRefetch: ({ currentArg, previousArg, endpointState }) => {
+                const page = currentArg?.pageNumber
+                if (page == null) return true;
+                const cached = endpointState?.data as ProductResponse | undefined
+                if (cached?.pages?.[page]) {
+                    return false;
+                } else {
+                    return true;
+                }
             },
-        }),
+        })
     })
 })

@@ -1,0 +1,23 @@
+.PaginationController {
+  display: flex;
+  width: 100%;
+  position: relative;
+  flex-direction: row;
+  //justify-content: space-evenly;
+  justify-content: center;
+  gap: 15px;
+}
+.page {
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  background-color: var(--color-sky-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  &:hover {
+    background-color: var(--color-blue);
+    cursor: pointer;
+  }
+}

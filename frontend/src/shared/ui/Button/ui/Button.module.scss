@@ -1,0 +1,12 @@
+.btn {
+  padding: 15px 30px 15px 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  background-color: var(--color-blue);
+  border: 1.5px solid var(--color-gray-ultra-light);
+  color: white;
+  &:hover {
+    background-color: #5468df;
+  }
+}

@@ -7,7 +7,7 @@ interface ParagraphProps {
 const Paragraph = (props: ParagraphProps) => {
     const { title, textContent } = props;
     return (
-        <div>
+        <div className={classes.Paragraph}>
             <div className={'font-medium20'}>{title}</div>
             <div className={'font-regular16'}>{textContent}</div>
         </div>

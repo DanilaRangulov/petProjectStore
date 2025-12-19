@@ -6,6 +6,7 @@
   border-radius: 10px;
   width: 100%;
   overflow: hidden;
+
 }
 .ModalContent {
   overflow-y: auto;
@@ -13,6 +14,9 @@
   position: relative;
   padding: 20px;
   display: flex;
+
+  gap: 20px;
+
   scrollbar-width: thin;
   flex-direction: column;
   img {
@@ -21,5 +25,24 @@
 }
 .topContent {
   display: flex;
+  gap: 5px;
   flex-direction: column;
+}
+
+.bottomContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  > :nth-child(2) {
+    color: var(--color-sky-blue)
+  }
 }

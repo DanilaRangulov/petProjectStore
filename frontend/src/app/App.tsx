@@ -4,10 +4,8 @@ import {Navbar} from "widgets/Navbar";
 import {MainPage} from "pages/MainPage";
 function App() {
   return (
-    <div className="App">
-      <header>
+    <div className='app'>
           <Navbar/>
-      </header>
         <main>
             <MainPage/>
         </main>

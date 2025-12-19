@@ -25,6 +25,7 @@ app.use(cors({
     origin: 'http://localhost:3000',
 }));
 
+app.use('/api/images',express.static('data/images'));
 
 app.get('/api/product', async (req, res, next) => {
     const { pageNumber, pageSize, search } = req.query;
@@ -40,8 +41,14 @@ app.get('/api/product', async (req, res, next) => {
 
     const items = data.slice(start, end);
     const total = data.length;
-    console.log(pageNumber, pageSize,search )
-    res.send({items, total});
+    res.send(
+        {
+            pages: {
+                [pageNumber]: items
+            },
+            total
+        }
+    );
 });
 
 const start = async () => {

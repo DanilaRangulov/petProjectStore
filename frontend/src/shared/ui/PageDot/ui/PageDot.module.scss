@@ -1,0 +1,18 @@
+.PageDot {
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  background-color: var(--color-sky-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  &:hover {
+    background-color: var(--color-sky-light-blue);
+    cursor: pointer;
+  }
+}
+
+.currentDot {
+  background-color: var(--color-blue) !important;
+}

@@ -39,7 +39,7 @@ const ProductsWidget = () => {
     return (
         <div className={`${classes.ProductsWidget}`}>
 
-            <div className={'font-bold32'}>Наш католог товаров</div>
+            <div className={'font-bold32'}>Наш каталог товаров</div>
 
             <Filters setTextState={(value) => setSearchFilter(value)}/>
             <ItemsGrid>

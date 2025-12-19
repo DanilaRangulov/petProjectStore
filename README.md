@@ -88,7 +88,7 @@ export interface ProductCardModel {
 
 API слушает по умолчанию порт 8080.
 
-Endpoint сущности Product: `GET /api/product?pageNumber=0&pageSize=6&search=`
+Endpoint сущности Product: `GET /api/product?pageNumber=value&pageSize=value&search=value`
 
 У Endpoint'а три параметра: pageNumber, pageSize, search. Также в коде присутствует функция sortData, которая сортирует массив данных Product в соответствии с поисковым параметром search(при его наличии). Как результат, клиент получает в ответном body постраничный и отфильтрованный набор данных.
 
